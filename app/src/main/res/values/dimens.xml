@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Materials Dimensions -->
+<resources>
+    <dimen name="cell_size">50dp</dimen>
+    <dimen name="tank_size">33dp</dimen>
+</resources>

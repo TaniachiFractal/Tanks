@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tanks</string>
+    <string name="the_tank_you_move">the tank you move</string>
+    <string name="settings">Settings</string>
+</resources>
